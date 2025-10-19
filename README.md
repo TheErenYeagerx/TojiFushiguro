@@ -36,3 +36,38 @@ Inspired by the *Sorcerer Killer* from **Jujutsu Kaisen**, this bot delivers raw
 /start    - Begin your RTMP journey
 /play     - Reply with an audio file to stream
 /ytplay   - Play directly from YouTube
+----
+
+<h2 align="center">🔐 Using Cookies for Authentication</h2>
+
+<p align="center">
+  TojiFushiguro supports cookie-based authentication for YouTube and related integrations.  
+  Follow these steps to generate and use cookies safely.
+</p>
+
+---
+
+### 🔹 Method: Netscape HTTP Cookie File
+
+> ⚠️ **Important Notes:**  
+> - Use a **secondary account** when generating cookies.  
+> - Once uploaded, **don’t log in again** with that account — it may invalidate the session.
+
+---
+
+### 📌 Step 1: Export Cookies (Netscape Format)
+
+Use a browser extension to export cookies as a `cookies.txt` file.
+
+| Browser | Extension | Download Link |
+|----------|------------|---------------|
+| **Chrome** | Get cookies.txt | [Chrome Web Store](https://chromewebstore.google.com/detail/get-cookiestxt-clean/ahmnmhfbokciafffnknlekllgcnafnie) |
+| **Firefox** | cookies.txt | [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/) |
+
+**How to export:**
+1. Install the extension.  
+2. Log in to the target website (e.g., YouTube).  
+3. Click the extension and choose **“Export cookies.txt.”**  
+4. Save the file.
+5. Open the chosen paste service.  
+6. Paste the full content of `cookies.txt`. 
