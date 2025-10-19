@@ -36,6 +36,7 @@ Inspired by the *Sorcerer Killer* from **Jujutsu Kaisen**, this bot delivers raw
 /start    - Begin your RTMP journey
 /play     - Reply with an audio file to stream
 /ytplay   - Play directly from YouTube
+
 ----
 
 <h2 align="center">🔐 Using Cookies for Authentication</h2>
